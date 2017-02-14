@@ -37,8 +37,8 @@ Intent Schema:
       ]
     }
   ]
-}
-`
+}`
+
 
 Custom Slots:
 LIST_OF_ACTIONS with the commands
@@ -51,6 +51,6 @@ ActionIntent {action}
 
 DoubleActionIntent {number} {action}
 DoubleActionIntent {action} {number}
-DoubleActionIntent is should do {number} {action}
-`
+DoubleActionIntent is should do {number} {action}`
+
 Say to the teawee ten louder -> increase the volume with 10
