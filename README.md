@@ -44,6 +44,7 @@ Custom Slots:
 LIST_OF_ACTIONS with the commands
 
 Sample Utterances:
+
 `ActionIntent it should open {action}
 ActionIntent open {action}
 ActionIntent start {action}
