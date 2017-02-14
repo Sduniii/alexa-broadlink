@@ -13,8 +13,10 @@ https://developer.amazon.com/edw/home.html#/skills/list
 Invocation Name: the teawee
 
 Intent Schema:
+
 `{
-  "intents": [
+
+"intents": [
     {
       "intent": "ActionIntent",
       "slots": [
